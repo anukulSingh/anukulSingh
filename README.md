@@ -1,8 +1,9 @@
-### I am Anukul ,a web developer, profound with <strong>CSS3</strong> and <strong>Node ecosystem<strong/> and interested in Statistical learning and <strong>ML</strong> <br><hr/>
+### I am [Anukul](https://drive.google.com/file/d/1GrncE-LrTObbN-lv5aQpjaZNsGDOVjny/view?usp=sharing), a web developer, profound with <strong>CSS3</strong> and <strong>MERN stack<strong/> and interested in Statistical learning and <strong>ML</strong> <br><hr/>
 
 ###
 
-[More about me](https://drive.google.com/file/d/1GrncE-LrTObbN-lv5aQpjaZNsGDOVjny/view?usp=sharing)<br><br>
+<br>[More about me](https://anukul-portfolio.netlify.app/)<br>
+
 <img alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" /><br><br>
 
 - 🔭 I’m currently working with MERN stack
