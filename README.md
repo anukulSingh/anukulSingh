@@ -14,7 +14,7 @@
 - 📫 How to reach me: on any of the social media platforms
 - ⚡ Fun fact: Flexbox rather than Grid
  -->
- # Hello, folks! <img src="https://media.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif" width="50px">
+ # Hello, folks! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50px">
  ## My name is Anukul Kumar and I'm a third year student at NIT-Agartala. I'm from India, currently living in Agartala, and have a decent interest in Backend API designing
 
 
@@ -36,10 +36,10 @@
 [2]: https://www.linkedin.com/in/anukul-kumar-51360519b/
 
  <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anukulSingh&hide=contribs,prs&show_icons=true&theme=dark&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anukulSingh&hide=contribs,prs&show_icons=true&theme=dark&hide_border=true" />
 </a>
  <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukulSingh&langs_count=8&layout=compact&theme=dark&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukulSingh&langs_count=8&layout=compact&theme=dark&hide_border=true" />
 </a>
 
 <!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anukulSingh&repo=github-readme-stats)] -->
@@ -56,4 +56,4 @@
 
 <!-- [1]: https://twitter.com/AnukulK34195260 -->
 <!-- [2]: https://www.linkedin.com/in/anukul-kumar-51360519b/ -->
-<!--  --> -->
+<!--  --> 
