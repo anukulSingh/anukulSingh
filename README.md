@@ -36,10 +36,10 @@
 [2]: https://www.linkedin.com/in/anukul-kumar-51360519b/
 
  <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anukulSingh&hide=contribs,prs&show_icons=true&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anukulSingh&hide=contribs,prs&show_icons=true&theme=dark&hide_border=true" />
 </a>
  <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukulSingh&langs_count=8&layout=compact&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukulSingh&langs_count=8&layout=compact&theme=dark&hide_border=true" />
 </a>
 
 <!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anukulSingh&repo=github-readme-stats)] -->
