@@ -12,6 +12,7 @@
 - 🤔 I’m looking for help with graphics designing and Machine learning
 - 💬 Ask me about anything , surely would love to answer'em
 - 📫 How to reach me: on any of the social media platforms
+- 
 - ⚡ Fun fact: Flexbox rather than Grid
  -->
  # Hello, folks! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50px">
@@ -24,7 +25,9 @@
 - 🤔 I’m looking for help with Data Science and Machine learning
 - 💬 Ask me about anything , surely would love to answer'em
 
- You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]
+ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]<br/><br/>
+ [View Sandbox projects->](https://codesandbox.io/u/anukulSingh)<br/>
+ [Visit Portfolio->](https://anukul-portfolio.netlify.app)
  <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
@@ -39,7 +42,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anukulSingh&hide=contribs,prs&show_icons=true&theme=dark&hide_border=true" />
 </a>
  <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukulSingh&langs_count=8&layout=compact&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukulSingh&langs_count=6&layout=compact&theme=dark&hide_border=true" />
 </a>
 
 <!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anukulSingh&repo=github-readme-stats)] -->
