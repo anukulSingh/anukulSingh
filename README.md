@@ -15,15 +15,15 @@
 - 
 - ⚡ Fun fact: Flexbox rather than Grid
  -->
- # Hello, folks! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50px">
- ## I am Anukul Kumar,a third year student at NIT-Agartala, currently living in Agartala (India) and having a decent interest in Backend API development with Node.js and related stuffs
+ # 𝓗𝓮𝓵𝓵𝓸, 𝓯𝓸𝓵𝓴𝓼! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50px">
+ ## ɪ ᴀᴍ ᴀɴᴜᴋᴜʟ ᴋᴜᴍᴀʀ,ᴀ ᴛʜɪʀᴅ ʏᴇᴀʀ sᴛᴜᴅᴇɴᴛ ᴀᴛ ɴɪᴛ-ᴀɢᴀʀᴛᴀʟᴀ, ᴄᴜʀʀᴇɴᴛʟʏ ʟɪᴠɪɴɢ ɪɴ ᴀɢᴀʀᴛᴀʟᴀ (ɪɴᴅɪᴀ) ᴀɴᴅ ʜᴀᴠɪɴɢ ᴀ ᴅᴇᴄᴇɴᴛ ɪɴᴛᴇʀᴇsᴛ ɪɴ ʙᴀᴄᴋᴇɴᴅ ᴀᴘɪ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ ɴᴏᴅᴇ.ᴊs ᴀɴᴅ ʀᴇʟᴀᴛᴇᴅ sᴛᴜғғs
 
 
-- 🔭 I’m currently working with Node.js and Solidity
-- 🌱 I’m currently doing CP and Blockchain development
-- 👯 I’m looking to collaborate on Node.js and Python related projects
-- 🤔 I’m looking for help with Data Science and ML
-- 💬 Ask me about anything , surely would love to answer'em
+- 🔭 𝙄'𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙒𝙚𝙗3 𝙖𝙣𝙙 𝘼𝙒𝙎 𝙘𝙡𝙤𝙪𝙙
+- 🌱 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙙𝙤𝙞𝙣𝙜 𝘾𝙋 𝙖𝙣𝙙 𝙈𝙀𝙍𝙉 𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩
+- 👯 𝙄’𝙢 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙩𝙤 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙚 𝙤𝙣 𝙉𝙤𝙙𝙚.𝙟𝙨 𝙖𝙣𝙙 𝙋𝙮𝙩𝙝𝙤𝙣 𝙧𝙚𝙡𝙖𝙩𝙚𝙙 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
+- 🤔 𝙄’𝙢 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙛𝙤𝙧 𝙝𝙚𝙡𝙥 𝙬𝙞𝙩𝙝 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙣𝙙 𝙈𝙇
+- 💬 𝘼𝙨𝙠 𝙢𝙚 𝙖𝙗𝙤𝙪𝙩 𝙖𝙣𝙮𝙩𝙝𝙞𝙣𝙜 , 𝙨𝙪𝙧𝙚𝙡𝙮 𝙬𝙤𝙪𝙡𝙙 𝙡𝙤𝙫𝙚 𝙩𝙤 𝙖𝙣𝙨𝙬𝙚𝙧'𝙚𝙢
 <hr/>
 
  [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]<br/><br/>
