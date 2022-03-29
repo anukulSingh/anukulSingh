@@ -70,7 +70,7 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355"
       alt="nodejs"
-      width="50"
+      width="60"
       height="40"
     />
   </a>
@@ -79,7 +79,7 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/260px-Django_logo.svg.png?20101010121142"
       alt="nodejs"
-      width="65"
+      width="80"
       height="40"
     />
   </a>
@@ -88,7 +88,7 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png?20190626143224"
       alt="mongodb"
-      width="80"
+      width="90"
       height="35"
     />
   </a>
@@ -209,12 +209,15 @@
 </p>
 
 <hr/>
- <a>
+<div>
+<a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=anukulSingh&hide=contribs&show_icons=true&theme=dark&hide_border=true" />
 </a>
  <a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukulSingh&langs_count=6&layout=compact&theme=dark&hide_border=true" />
 </a>
+</div>
+ 
 
 <!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anukulSingh&repo=github-readme-stats)] -->
 <!-- Actual text -->
