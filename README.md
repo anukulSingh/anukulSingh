@@ -211,10 +211,10 @@
 <hr/>
 <div>
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anukulSingh&hide=contribs&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anukulSingh&hide=contribs&show_icons=true&theme=dark&hide_border=true" />
 </a>
  <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukulSingh&langs_count=6&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukulSingh&langs_count=6&layout=compact&theme=dark&hide_border=true" />
 </a>
 </div>
  
