@@ -15,13 +15,13 @@
 - 
 - ⚡ Fun fact: Flexbox rather than Grid
  -->
- ## I am Anukul Singh, a third year undergraduate at NIT-Agartala, from Bihar (India) and currently residing in Agartala, i have a sound interest in Back-end development, primarily with Node.js and python, as well as some decent experience with Frontend technologies
+ ## I am Anukul Singh, a final year undergrad at NIT-Agartala, originally from Bihar and currently residing in Agartala .<br/> I have a sound interest in Back-end development, primarily with Node.js and Python, as well as some decent experience with the Front-end technologies .
 
 
 - 🔭 I'm currently learning Docker and AWS
-- 🌱 I'm currently working on GraphQL and Sequelize
-- 👯 I'm currently looking to land a job in the tech sector
-- 🤔 I'm currently looking for help with CI / CD piplines
+- 🌱 I'm currently working on React.js and Sequelize
+- 👯 I'm currently looking to land a job in Software Development
+- 🤔 I'm currently looking for help with CI-CD pipelines
 <hr/>
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left">
