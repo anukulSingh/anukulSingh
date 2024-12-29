@@ -20,7 +20,6 @@
  ### Hi I'm Anukul Singh, currently working as a Data scientist
 
 
-- 🔭 I'm currently learning C++ Gamimg development
 <div>
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=anukulSingh&hide=contribs&show_icons=true&theme=dark&hide_border=true" />
