@@ -21,9 +21,6 @@
 
 
 <div>
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=anukulSingh&hide=contribs&show_icons=true&theme=dark&hide_border=true" />
-</a>
  <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukulSingh&langs_count=6&layout=compact&theme=dark&hide_border=true" />
 </a>
