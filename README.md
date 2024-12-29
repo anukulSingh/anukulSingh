@@ -15,13 +15,12 @@
 - 
 - ⚡ Fun fact: Flexbox rather than Grid
  -->
- ## I am Anukul Singh, a final year undergrad at NIT-Agartala, originally from Muzaffarpur (Bihar, India) and currently residing in Agartala (Tripura, India) .<br/> I have a decent experience in Back-end development, primarily with Node.js and Python. I am currently working on Exploratory Data Analysis and Machine Learning.
 
 
-- 🔭 I'm currently learning ML, EDA and Statistics
-- 🌱 I'm currently working on learning SQL and ML algorithms
-- 👯 I'm currently looking to explore Data Science
-- 🤔 I'm currently looking for help with Pipelines and Deployment
+ ### Hi I'm Anukul Singh, currently working as a Data scientist
+
+
+- 🔭 I'm currently learning C++ Gamimg development
 <div>
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=anukulSingh&hide=contribs&show_icons=true&theme=dark&hide_border=true" />
